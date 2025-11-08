@@ -14,13 +14,14 @@ mindmap
 +++ Asignación de roles
 +++ Elaboración del plan de trabajo
 +++ Aprobación del plan
++++ Hito 1 Aprobación del proyecto
 ++ ANÁLISIS DE REQUISITOS
 +++ Revisión del alcance funcional
 +++ Identificación de transacciones principales
 +++ Modelado de casos de uso
 +++ Análisis de requisitos
 +++ Validación de requisitos
-+++ Hito 1 Aprobación del proyecto
++++ Hito 2 Conocimiento de los requisitos
 ++ DISEÑO DEL SISTEMA Y DE LA BASE DE DATOS
 +++ Diseño de la base de datos
 ++++ elaboración del MER
